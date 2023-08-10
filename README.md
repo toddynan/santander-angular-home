@@ -1,27 +1,78 @@
-# SantanderAngularHome
+<div align="center">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/101415619-1b103500-389d-11eb-83f8-74f87abf5eaf.png">
+  <br />
+  Santander Home Client
+</h1>
 
-## Development server
+  <!-- project badges -->
+  <p align="center">
+ <!--
+   <img 
+      alt="Project programing languages count" 
+      src="https://img.shields.io/github/languages/count/felipeAguiarCode/node-js-bulk-downloader?color=6A57D5"
+    >
+ -->
+  <!--
+    <img 
+      alt="Last commit on GitHub" 
+      src="https://img.shields.io/github/last-commit/felipeAguiarCode/node-js-bulk-downloader?color=6A57D5"
+    >
+  -->
+    <img 
+        src="https://img.shields.io/badge/Code%20With-Angular%2016-E31918?logo=angular" 
+        alt="Code With Angular">
+   	<img 
+      alt="GitHub license" 
+      src="https://img.shields.io/github/license/felipeAguiarCode/angular-santander-home-clone?color=E31918"
+    >
+  </p> 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<div align="center">
+  	<a href="#">
+      <img src=".github/assets/preview.png" width="400" alt="preview" />
+  	</a>
+</div>
 
-## Code scaffolding
+  <!-- project description and menu -->
+  <p align="center">
+      Um clone da Home Client do Santander feita com Angular
+    <br />
+    <a 
+      href="## Usage">
+      <strong>Confira On-Line »</strong>
+    </a>
+    <br />
+    <br />
+    <a 
+      href="https://github.com/toddynan/
+		santander-angular-home/issues">
+      Reporte um Bug
+    </a>
+    ·
+    <a 
+      href="https://github.com/toddynan/santander-angular-home/issues/new">
+      Contribua!
+    </a>
+  </p>
+</div>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Conhecimentos
+- [x] Componentização com Angular;
+- [x] Aplicação com NPM.
 
-## Build
+## Tecnologias
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Esse projeto foi desenvolvido com as seguintes tecnlogias:
+-   [Angular](https://angular.io);
+-   [HTML5](https://angular.io);
+-   [CSS3](https://angular.io);
+-   [TypeScript](https://angular.io).
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<br/>
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Powered by Rocketseat :wave:
