@@ -65,14 +65,11 @@
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnlogias:
--   [Angular](https://angular.io);
--   [HTML5](https://angular.io);
--   [CSS3](https://angular.io);
--   [TypeScript](https://angular.io).
-
-
-<br/>
+-   [Angular];
+-   [HTML5];
+-   [CSS3];
+-   [TypeScript].
 
 ---
 
-Powered by Rocketseat :wave:
+Powered by DIO :wave:
