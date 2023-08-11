@@ -39,10 +39,11 @@
   <p align="center">
       Um clone da Home Client do Santander feita com Angular
     <br />
-    <a 
+    <!--<a 
       href="toddynan.github.io/santander-angular-home">
       <strong>Confira On-Line »</strong>
-    </a>
+    </a>-->
+      Para visualizar a aplicação, entre no servidor localhost:4200 pelo NPM.
     <br />
     <a 
       href="https://github.com/toddynan/
