@@ -40,10 +40,9 @@
       Um clone da Home Client do Santander feita com Angular
     <br />
     <a 
-      href="## Usage">
+      href="toddynan.github.io/santander-angular-home">
       <strong>Confira On-Line »</strong>
     </a>
-    <br />
     <br />
     <a 
       href="https://github.com/toddynan/
@@ -65,10 +64,10 @@
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnlogias:
--   [Angular];
--   [HTML5];
--   [CSS3];
--   [TypeScript].
+-   Angular;
+-   HTML5;
+-   CSS3;
+-   TypeScript.
 
 ---
 
